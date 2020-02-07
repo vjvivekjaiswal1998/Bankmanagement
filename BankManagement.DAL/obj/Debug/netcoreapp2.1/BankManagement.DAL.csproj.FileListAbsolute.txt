@@ -1,0 +1,36 @@
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DAL.deps.json
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DAL.dll
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.AssemblyInfo.cs
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DAL.pdb
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DTO.dll
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DTO.pdb
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.csprojAssemblyReference.cache
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.csproj.CopyComplete
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.dll
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.pdb
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DAL.deps.json
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DAL.dll
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DAL.pdb
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DTO.dll
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DTO.pdb
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.csprojAssemblyReference.cache
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.AssemblyInfo.cs
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.csproj.CopyComplete
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.dll
+C:\Users\vivek.jaiswal\source\repos\connection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.pdb
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DAL.deps.json
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DAL.dll
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DAL.pdb
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DTO.dll
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\bin\Debug\netcoreapp2.1\BankManagement.DTO.pdb
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.csprojAssemblyReference.cache
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.AssemblyInfo.cs
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.csproj.CopyComplete
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.dll
+C:\Users\vivek.jaiswal\source\vivekonly\disconnection model\BankManagement\BankManagement.DAL\obj\Debug\netcoreapp2.1\BankManagement.DAL.pdb

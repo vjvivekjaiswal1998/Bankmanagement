@@ -1,0 +1,9 @@
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.UOW\bin\Debug\netcoreapp2.1\BankManagement.UOW.deps.json
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.UOW\bin\Debug\netcoreapp2.1\BankManagement.UOW.dll
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.UOW\bin\Debug\netcoreapp2.1\BankManagement.UOW.pdb
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.UOW\obj\Debug\netcoreapp2.1\BankManagement.UOW.csproj.CoreCompileInputs.cache
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.UOW\obj\Debug\netcoreapp2.1\BankManagement.UOW.AssemblyInfoInputs.cache
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.UOW\obj\Debug\netcoreapp2.1\BankManagement.UOW.AssemblyInfo.cs
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.UOW\obj\Debug\netcoreapp2.1\BankManagement.UOW.dll
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.UOW\obj\Debug\netcoreapp2.1\BankManagement.UOW.pdb
+C:\Users\vivek.jaiswal\source\repos\BankManagement\BankManagement.UOW\obj\Debug\netcoreapp2.1\BankManagement.UOW.csprojAssemblyReference.cache
